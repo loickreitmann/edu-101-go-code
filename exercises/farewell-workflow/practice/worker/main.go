@@ -21,6 +21,7 @@ func main() {
 	w.RegisterActivity(farewell.GreetInSpanish)
 
 	// TODO: register your Activity
+	w.RegisterActivity(farewell.FarewellInSpanish)
 
 	err = w.Run(worker.InterruptCh())
 	if err != nil {
