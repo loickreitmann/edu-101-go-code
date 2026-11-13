@@ -19,6 +19,11 @@ func GreetInSpanish(ctx context.Context, name string) (string, error) {
 // function will be "get-spanish-farewell". You can name your
 // function whatever you like.
 
+func FarewellInSpanish(ctx context.Context, name string) (string, error) {
+	farewell, err := callService("get-spanish-farewell", name)
+	return farewell, err
+}
+
 // utility function for making calls to the microservices
 func callService(stem string, name string) (string, error) {
 	base := "http://localhost:9999/" + stem + "?name=%s"
