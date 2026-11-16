@@ -48,4 +48,4 @@ section in the course to set up a local development environment.
 
 ## Course Completion
 
-[![Loïc Kreitmann successfully completed this Temporal 101 course](https://github.com/loickreitmann/edu-101-go-code/blob/main/exercises/finale-workflow/101_certificate_lo_c_kreitmann.pdf)](https://github.com/loickreitmann/edu-101-go-code/blob/main/exercises/finale-workflow/101_certificate_lo_c_kreitmann.pdf)
+[![Loïc Kreitmann successfully completed this Temporal 101 course](https://github.com/loickreitmann/edu-101-go-code/blob/main/exercises/finale-workflow/101_certificate_loic_kreitmann.pdf)](https://github.com/loickreitmann/edu-101-go-code/blob/main/exercises/finale-workflow/101_certificate_loic_kreitmann.pdf)
